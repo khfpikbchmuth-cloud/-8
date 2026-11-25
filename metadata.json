@@ -1,0 +1,6 @@
+{
+  "name": "سامی کینگ",
+  "description": "دستیار هوشمند چندرسانه‌ای سامی کینگ با پشتیبانی از گفتگو، تحلیل تصویر و ویدیو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

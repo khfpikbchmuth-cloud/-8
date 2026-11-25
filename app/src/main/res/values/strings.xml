@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">سامی کینگ</string>
+    <string name="brand_subtitle">هوش مصنوعی رایگان • متن، تصویر و ویدیو</string>
+    <string name="new_chat">گفتگوی جدید</string>
+    <string name="media_lab">استودیو تصویر و ویدیو</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="input_hint">هر سوالی داری از سامی کینگ بپرس...</string>
+    <string name="free_tier_badge">کاملاً رایگان • بدون نیاز به پرداخت</string>
+</resources>
